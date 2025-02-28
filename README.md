@@ -1,11 +1,11 @@
-# 🚀 ML Encoding Guide  
+# ML Encoding Guide  
 
-## 📌 Introduction  
+## Introduction  
 Most Machine Learning (ML) models work with numerical data, but real-world datasets often contain categorical features (e.g., countries, product categories, user types). Encoding these features properly can dramatically impact model performance. This repository provides a **detailed guide** to the most commonly used encoding techniques, explains when to use each one, and includes **Python implementations** for practical applications.  
 
 ---
 
-## 🧩 Covered Encoding Techniques  
+## Covered Encoding Techniques  
 
 This repository provides a **detailed breakdown** of the most widely used feature encoding techniques in Machine Learning. Each encoding method includes:
 
@@ -22,11 +22,11 @@ The following encoding methods are included:
 - **Frequency Encoding**  
 - **Binary Encoding**  
 
-Each technique is implemented in **Jupyter Notebooks** with accompanying datasets to enhance learning. 📌  
+Each technique is implemented in **Jupyter Notebooks** with accompanying datasets to enhance learning.
 
 ---
 
-## 📊 Encoding Techniques Comparison  
+## Encoding Techniques Comparison  
 
 | Encoding Type | Pros | Cons | Best Used For |
 |--------------|------|------|--------------|
@@ -38,7 +38,7 @@ Each technique is implemented in **Jupyter Notebooks** with accompanying dataset
 
 ---
 
-## 📂 Repository Structure  
+## Repository Structure  
 
 ```bash
 ML-Encoding-Guide/
@@ -74,7 +74,7 @@ ML-Encoding-Guide/
 
 ---
 
-## 🛠 How to Use the Repository  
+## How to Use the Repository  
 
 1. **Clone the repository**  
    ```bash
@@ -93,10 +93,10 @@ ML-Encoding-Guide/
 
 ---
 
-## 📜 License  
+## License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
 
 ---
 
-## 🚀 Contribute & Support  
+## Contribute & Support  
 If you find this repository useful, please consider giving it a ⭐! Feel free to submit issues, feature requests, or pull requests.  
