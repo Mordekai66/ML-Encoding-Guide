@@ -78,7 +78,7 @@ ML-Encoding-Guide/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/ML-Encoding-Guide.git
+   git clone https://github.com/Mordekai66/ML-Encoding-Guide.git
    cd ML-Encoding-Guide
    ```
 2. **Install dependencies**  
