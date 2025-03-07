@@ -30,7 +30,7 @@ This numerical representation allows ML models to process categorical data effic
 ##  Python Implementation  
 For a full Python implementation, check the Jupyter Notebook [`label_encoding.ipynb`](./label_encoding.ipynb). It contains:
 - A **simple example** using a small dataset.
-- A **real-world dataset** example using `sample_data.csv`.
+- A **real-world dataset** example using [`sample_data.csv`](./sample_data.csv).
 
 ---
 
