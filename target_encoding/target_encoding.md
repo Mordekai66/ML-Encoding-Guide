@@ -74,9 +74,9 @@ It is advisable to consult the documentation of the specific library being used 
 ---
 
 ## **Python Implementation**
-For a full Python implementation, check the Jupyter Notebook **target_encoding.ipynb**. It contains:  
+For a full Python implementation, check the Jupyter Notebook [`target_encoding.ipynb`](./target_encoding.ipynb). It contains:  
 1. A simple example using a small dataset.  
-2. A real-world dataset example using **sample_data.csv**.  
+2. A real-world dataset example using [`sample_data.csv`](./sample_data.csv).  
 
 
 ## **Pros & Cons**
