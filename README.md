@@ -65,11 +65,10 @@ ML-Encoding-Guide/
 │── binary_encoding/           # Binary Encoding files
 │   │── binary_encoding.md     # Documentation for Binary Encoding
 │   │── binary_encoding.ipynb  # Jupyter Notebook example
-│   │── sample_data.csv        # Sample dataset
+|   |── binary_numbers_system.md  # binary encoding system explained
 │
 │── README.md                  # Project documentation
 │── LICENSE                     # License file
-│── .gitignore                  # Git ignore file
 ```
 
 ---
