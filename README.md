@@ -65,7 +65,7 @@ ML-Encoding-Guide/
 │── binary_encoding/           # Binary Encoding files
 │   │── binary_encoding.md     # Documentation for Binary Encoding
 │   │── binary_encoding.ipynb  # Jupyter Notebook example
-|   |── binary_numbers_system.md  # binary encoding system explained
+│   │── binary_numbers_system.md  # binary encoding system explained
 │
 │── README.md                  # Project documentation
 │── LICENSE                     # License file
