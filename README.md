@@ -1,4 +1,12 @@
 # ML Encoding Guide  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Guide-orange)
+![Encoding](https://img.shields.io/badge/Encoding-Techniques-success)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Label%20Encoding%20%7C%20OneHot-red)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Education](https://img.shields.io/badge/Education-Tutorial-purple)
 
 ## Introduction  
 Most Machine Learning (ML) models work with numerical data, but real-world datasets often contain categorical features (e.g., countries, product categories, user types). Encoding these features properly can dramatically impact model performance. This repository provides a **detailed guide** to the most commonly used encoding techniques, explains when to use each one, and includes **Python implementations** for practical applications.  
