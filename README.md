@@ -84,10 +84,7 @@ ML-Encoding-Guide/
 ## How to Use the Repository  
 
 1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Mordekai66/ML-Encoding-Guide.git
-   cd ML-Encoding-Guide
-   ```
+
 2. **Install dependencies**  
    ```bash
    pip install -r requirements.txt
